@@ -7,6 +7,10 @@ sites:
     url: https://www.nellybabillon.fr
   - name: Yoga Partage
     url: https://www.yogapartage.fr
+  - name: Yeutes
+    url: https://www.yeutes.nellybabillon.fr
+  - name: Artemis
+    url: https://www.artemis.nellybabillon.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
