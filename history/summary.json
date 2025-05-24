@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yogapartage.fr.ico",
     "slug": "yoga-partage",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 1770,
     "timeDay": 1956,
     "timeWeek": 1894,
@@ -46,10 +46,10 @@
     "url": "https://www.yeutes.nellybabillon.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.yeutes.nellybabillon.fr.ico",
     "slug": "yeutes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
@@ -57,14 +57,16 @@
     "timeWeek": 648,
     "timeMonth": 655,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 2
+    }
   },
   {
     "name": "Artemis",
     "url": "https://www.artemis.nellybabillon.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.artemis.nellybabillon.fr.ico",
     "slug": "artemis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -75,6 +77,8 @@
     "timeWeek": 676,
     "timeMonth": 681,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 0
+    }
   }
 ]
