@@ -4,11 +4,11 @@
     "url": "https://www.nellybabillon.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.nellybabillon.fr.ico",
     "slug": "nelly-babillon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.87%",
     "time": 1435,
     "timeDay": 1670,
@@ -16,6 +16,7 @@
     "timeMonth": 1464,
     "timeYear": 1435,
     "dailyMinutesDown": {
+      "2025-05-24": 5,
       "2025-02-21": 26,
       "2025-02-01": 179
     }
@@ -25,18 +26,19 @@
     "url": "https://www.yogapartage.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.yogapartage.fr.ico",
     "slug": "yoga-partage",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.90%",
     "time": 1770,
     "timeDay": 1956,
     "timeWeek": 1894,
     "timeMonth": 1983,
     "timeYear": 1770,
     "dailyMinutesDown": {
+      "2025-05-24": 3,
       "2025-02-21": 26,
       "2025-02-01": 127
     }
@@ -47,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yeutes.nellybabillon.fr.ico",
     "slug": "yeutes",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 665,
     "timeDay": 713,
     "timeWeek": 648,
     "timeMonth": 655,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2025-05-24": 2
+      "2025-05-24": 12
     }
   },
   {
@@ -67,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.artemis.nellybabillon.fr.ico",
     "slug": "artemis",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 664,
     "timeDay": 925,
     "timeWeek": 676,
     "timeMonth": 681,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-05-24": 0
+      "2025-05-24": 11
     }
   }
 ]
