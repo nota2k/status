@@ -11,6 +11,12 @@ sites:
     url: https://www.yeutes.nellybabillon.fr
   - name: Artemis
     url: https://www.artemis.nellybabillon.fr
+  - name: Senscritique
+    url: https://www.senscritique.nellybabillon.fr
+  - name: P Reichsrath
+    url: https://www.p-reichsrath.nellybabillon.fr
+  - name: Babines
+    url: https://babines.incongru.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
