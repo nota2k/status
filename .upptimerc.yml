@@ -8,13 +8,13 @@ sites:
   - name: Yoga Partage
     url: https://www.yogapartage.fr
   - name: Yeutes
-    url: https://www.yeutes.nellybabillon.fr
+    url: https://yeutes.nellybabillon.fr/
   - name: Artemis
-    url: https://www.artemis.nellybabillon.fr
+    url: https://artemis.nellybabillon.fr
   - name: Senscritique
-    url: https://www.senscritique.nellybabillon.fr
+    url: https://senscritique.nellybabillon.fr
   - name: P Reichsrath
-    url: https://www.p-reichsrath.nellybabillon.fr
+    url: https://p-reichsrath.nellybabillon.fr
   - name: Babines
     url: https://babines.incongru.org/
 
