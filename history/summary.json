@@ -30,18 +30,19 @@
     "url": "https://www.yogapartage.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.yogapartage.fr.ico",
     "slug": "yoga-partage",
-    "status": "up",
-    "uptime": "95.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.99%",
+    "status": "down",
+    "uptime": "95.62%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "96.98%",
     "uptimeMonth": "97.77%",
-    "uptimeYear": "95.47%",
-    "time": 1695,
-    "timeDay": 2703,
-    "timeWeek": 1813,
-    "timeMonth": 1673,
-    "timeYear": 1696,
+    "uptimeYear": "95.57%",
+    "time": 1693,
+    "timeDay": 1608,
+    "timeWeek": 1786,
+    "timeMonth": 1667,
+    "timeYear": 1694,
     "dailyMinutesDown": {
+      "2026-02-06": 0,
       "2026-02-04": 43,
       "2026-02-03": 23,
       "2026-02-02": 87,
@@ -118,8 +119,7 @@
       "2025-08-24": 28,
       "2025-08-23": 307,
       "2025-08-22": 1415,
-      "2025-08-21": 741,
-      "2025-08-20": 80
+      "2025-08-21": 292
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2026-02-06": 24,
+      "2026-02-06": 46,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -374,7 +374,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-06": 24,
+      "2026-02-06": 46,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
