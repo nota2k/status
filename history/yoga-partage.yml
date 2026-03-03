@@ -1,7 +1,7 @@
 url: https://www.yogapartage.fr
-status: up
-code: 200
-responseTime: 2784
-lastUpdated: 2026-03-02T23:07:48.258Z
+status: down
+code: 503
+responseTime: 464
+lastUpdated: 2026-03-03T22:46:33.466Z
 startTime: 2025-02-01T18:10:22.761Z
 generator: Upptime <https://github.com/upptime/upptime>
