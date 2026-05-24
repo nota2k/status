@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.62%",
-    "time": 652,
-    "timeDay": 384,
-    "timeWeek": 312,
-    "timeMonth": 328,
-    "timeYear": 420,
+    "time": 650,
+    "timeDay": 356,
+    "timeWeek": 326,
+    "timeMonth": 332,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2026-05-06": 52,
       "2026-04-30": 35,
@@ -23,8 +23,7 @@
       "2026-01-05": 654,
       "2026-01-04": 780,
       "2025-11-18": 117,
-      "2025-05-30": 224,
-      "2025-05-24": 98
+      "2025-05-30": 224
     }
   },
   {
@@ -35,13 +34,13 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "98.15%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "91.96%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "92.11%",
     "uptimeYear": "98.94%",
     "time": 1616,
-    "timeDay": 1322,
-    "timeWeek": 1206,
-    "timeMonth": 1149,
+    "timeDay": 1266,
+    "timeWeek": 1204,
+    "timeMonth": 1162,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2026-05-23": 27,
@@ -107,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.70%",
     "time": 746,
-    "timeDay": 661,
+    "timeDay": 675,
     "timeWeek": 605,
-    "timeMonth": 606,
+    "timeMonth": 613,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2026-04-15": 19,
@@ -129,8 +128,7 @@
       "2025-08-21": 737,
       "2025-08-20": 1262,
       "2025-07-18": 268,
-      "2025-05-30": 793,
-      "2025-05-24": 106
+      "2025-05-30": 793
     }
   },
   {
@@ -145,9 +143,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.71%",
     "time": 610,
-    "timeDay": 638,
-    "timeWeek": 569,
-    "timeMonth": 612,
+    "timeDay": 676,
+    "timeWeek": 581,
+    "timeMonth": 615,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2026-05-10": 22,
@@ -165,8 +163,7 @@
       "2025-08-21": 735,
       "2025-08-20": 1258,
       "2025-07-18": 268,
-      "2025-05-30": 806,
-      "2025-05-24": 104
+      "2025-05-30": 806
     }
   },
   {
@@ -181,9 +178,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 612,
-    "timeDay": 601,
-    "timeWeek": 585,
-    "timeMonth": 596,
+    "timeDay": 718,
+    "timeWeek": 580,
+    "timeMonth": 603,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2026-03-10": 20,
@@ -207,18 +204,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/p-reichsrath.nellybabillon.fr.ico",
     "slug": "p-reichsrath",
     "status": "down",
-    "uptime": "40.24%",
+    "uptime": "40.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.24%",
+    "uptimeYear": "40.21%",
     "time": 1020,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2026-05-23": 1102,
+      "2026-05-24": 47,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -459,7 +457,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 1102,
+      "2026-05-24": 47,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
